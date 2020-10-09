@@ -233,6 +233,11 @@ p {
   margin: 54px 0px 0px 16px;
 }
 
+.guests img {
+  width: 100%;
+  height: 100%;
+}
+
 h2 {
   margin-left: 16px;
   margin-bottom: 14px;
