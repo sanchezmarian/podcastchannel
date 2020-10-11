@@ -260,12 +260,14 @@ h2 {
   margin-left: 16px;
   background-color: #FFFFFF;
   color: #060A24;
+  text-align: center;
 }
 
 .topics p {
   font-family: 'IBM Plex Sans', sans-serif;
   font-weight: 600;
   font-size: 24px;
+    text-align: center;
 }
 
 .topics .topics-box {
