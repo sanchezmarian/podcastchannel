@@ -250,6 +250,7 @@ h2 {
 /*topics*/
 .topics {
   width: 320px;
+  text-align: center;
 }
 
 .topics h2 {
